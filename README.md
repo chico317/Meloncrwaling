@@ -1,4 +1,4 @@
-# Meloncrwaling
+# Meloncrawling
 크롤링하는 법(멜론/ 출처: https://www.youtube.com/watch?v=rtm53GP62ss) import requests from bs4 import BeautifulSoup
 
 browser = webdriver.Chrome('C:/Users/82104/project1/chromedriver.exe') browser.get(불러올 주소)
